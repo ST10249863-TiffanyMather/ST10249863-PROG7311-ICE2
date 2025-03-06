@@ -1,10 +1,12 @@
-﻿@model List<PROG7311_ICE2.Models.Product>
+﻿@model PROG7311_ICE2.Models.Order
 
-<h2 style="text-align: center;">Available Products</h2>
+<h2 style="text-align: center;">Order Summary</h2>
 
 <div style="max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border-radius: 8px;">
-    <ul style="list-style-type: none; padding: 0;">
-        @foreach (var product in Model)
+    <p style="font-size: 16px; margin-bottom: 20px;">Customer: <strong>@Model.CustomerName</strong></p>
+    
+    <ul style="list-style-type: none; padding: 0; margin-bottom: 20px;">
+        @foreach (var product in Model.Products)
         {
             <li style="margin-bottom: 10px; font-size: 16px;">
                 @product.Name - R @product.Price
@@ -12,9 +14,13 @@
         }
     </ul>
 
+    <p style="font-size: 18px; font-weight: bold; text-align: right;">
+        Total: R @Model.TotalAmount
+    </p>
+
     <div style="text-align: center; margin-top: 20px;">
         <a href="@Url.Action("PlaceOrder", "Order")" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">
-            Place Order
+            Place Another Order
         </a>
     </div>
 </div>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROG7311_ICE2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b53840dd0893c87706f723a2328f240d2924ccdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROG7311_ICE2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROG7311_ICE2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

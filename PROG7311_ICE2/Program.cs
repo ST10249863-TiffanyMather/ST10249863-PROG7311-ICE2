@@ -8,11 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container
 builder.Services.AddControllersWithViews();
 
-// Register dependencies for Dependency Injection
-builder.Services.AddScoped<IPaymentProcessor, CreditCardPaymentProcessor>();
-builder.Services.AddScoped<INotificationService, EmailNotification>();
-builder.Services.AddScoped<IOrderService, OrderService>();
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

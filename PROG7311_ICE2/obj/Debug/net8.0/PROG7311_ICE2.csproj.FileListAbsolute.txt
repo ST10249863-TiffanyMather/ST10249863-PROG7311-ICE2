@@ -32,3 +32,4 @@ C:\Users\tiffa\source\repos\PROG7311_ICE2\PROG7311_ICE2\obj\Debug\net8.0\refint\
 C:\Users\tiffa\source\repos\PROG7311_ICE2\PROG7311_ICE2\obj\Debug\net8.0\PROG7311_ICE2.pdb
 C:\Users\tiffa\source\repos\PROG7311_ICE2\PROG7311_ICE2\obj\Debug\net8.0\PROG7311_ICE2.genruntimeconfig.cache
 C:\Users\tiffa\source\repos\PROG7311_ICE2\PROG7311_ICE2\obj\Debug\net8.0\ref\PROG7311_ICE2.dll
+C:\Users\tiffa\source\repos\PROG7311_ICE2\PROG7311_ICE2\obj\Debug\net8.0\PROG7311_ICE2.sourcelink.json

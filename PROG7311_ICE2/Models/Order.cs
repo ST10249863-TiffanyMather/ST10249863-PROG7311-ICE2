@@ -2,9 +2,9 @@
 {
     public class Order
     {
-        public int Id { get; set; }
-        public string ProductName { get; set; }
-        public decimal Price { get; set; }
-        public bool IsPaid { get; set; }
+        public int OrderId { get; set; }
+        public string CustomerName { get; set; }
+        public List<Product> Products { get; set; } = new List<Product>();
+        public decimal TotalAmount => Products.Sum(p => p.Price);
     }
 }

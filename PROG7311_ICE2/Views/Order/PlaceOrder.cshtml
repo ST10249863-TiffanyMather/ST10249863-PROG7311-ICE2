@@ -1,0 +1,25 @@
+﻿@model List<PROG7311_ICE2.Models.Product>
+
+<h2 style="text-align: center;">Place Your Order</h2>
+
+<form method="post" action="@Url.Action("PlaceOrder", "Order")" style="max-width: 600px; margin: 0 auto;">
+    <div style="margin-bottom: 20px;">
+        <label for="customerName">Name:</label>
+        <input type="text" id="customerName" name="customerName" required style="width: 100%; padding: 8px;" />
+    </div>
+
+    <div style="margin-bottom: 20px;">
+        <label>Select Products:</label><br />
+        @foreach (var product in Model)
+        {
+            <div>
+                <input type="checkbox" name="productIds" value="@product.Id" id="product_@product.Id" />
+                <label for="product_@product.Id"> @product.Name - R @product.Price</label>
+            </div>
+        }
+    </div>
+
+    <div style="text-align: center;">
+        <button type="submit" style="padding: 10px 20px; background-color: #007BFF; color: white; border: none; cursor: pointer;">Submit Order</button>
+    </div>
+</form>
