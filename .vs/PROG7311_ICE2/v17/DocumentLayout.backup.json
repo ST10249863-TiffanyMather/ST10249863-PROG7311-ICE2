@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\services\\creditcardpaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\services\\creditcardpaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\services\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\services\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\services\\paypalpaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\services\\paypalpaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\services\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\services\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|c:\\users\\tiffa\\source\\repos\\prog7311_ice2\\prog7311_ice2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69AB9F-398F-4D32-8430-046C9EE3797F}|PROG7311_ICE2\\PROG7311_ICE2.csproj|solutionrelative:prog7311_ice2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PROG7311_ICE2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T19:00:55.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Program.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Program.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Program.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:00:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "PROG7311_ICE2\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T18:59:36.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:57:53.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Services\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\EmailNotification.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Services\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:56:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Services\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\INotificationService.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Services\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:52:30.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditCardPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\CreditCardPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Services\\CreditCardPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\CreditCardPaymentProcessor.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Services\\CreditCardPaymentProcessor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:54:46.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\OrderService.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:56:48.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PayPalPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\PayPalPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Services\\PayPalPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\PayPalPaymentProcessor.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Services\\PayPalPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:55:24.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\IOrderService.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:53:58.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Services\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Services\\IPaymentProcessor.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Services\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:51:44.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\tiffa\\source\\repos\\PROG7311_ICE2\\PROG7311_ICE2\\Models\\Order.cs",
+              "RelativeToolTip": "PROG7311_ICE2\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:50:00.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
